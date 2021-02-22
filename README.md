@@ -1,4 +1,4 @@
-# quizapp_BACKEND
+# quizApp_BACKEND
 
 Proyecto de plataforma de uso institucional con creación de evaluaciones (quizzes).
 
